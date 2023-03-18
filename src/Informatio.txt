@@ -1,0 +1,11 @@
+https://react-icons.github.io/react-icons/icons?name=im
+para los icons
+se debe importa con el nombre del incono y luego llamar
+
+
+eje
+import { GrBitcoin } from "react-icons/gr";
+
+<GrBitcoin/>>
+import { Gopola } from "react-icons/gr";
+<Gopola/>>
